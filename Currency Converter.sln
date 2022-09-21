@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32526.322
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Currency Converter", "Currency Converter\Currency Converter.vcxproj", "{425AEB8B-AF04-4470-8130-25CC16FC5121}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{425AEB8B-AF04-4470-8130-25CC16FC5121}.Debug|x64.ActiveCfg = Debug|x64
+		{425AEB8B-AF04-4470-8130-25CC16FC5121}.Debug|x64.Build.0 = Debug|x64
+		{425AEB8B-AF04-4470-8130-25CC16FC5121}.Debug|x86.ActiveCfg = Debug|Win32
+		{425AEB8B-AF04-4470-8130-25CC16FC5121}.Debug|x86.Build.0 = Debug|Win32
+		{425AEB8B-AF04-4470-8130-25CC16FC5121}.Release|x64.ActiveCfg = Release|x64
+		{425AEB8B-AF04-4470-8130-25CC16FC5121}.Release|x64.Build.0 = Release|x64
+		{425AEB8B-AF04-4470-8130-25CC16FC5121}.Release|x86.ActiveCfg = Release|Win32
+		{425AEB8B-AF04-4470-8130-25CC16FC5121}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ED58DB51-C48B-43A4-8F42-EF9F1F082A29}
+	EndGlobalSection
+EndGlobal
